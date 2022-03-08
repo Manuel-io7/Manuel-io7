@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/giffTwo.gif' width='18%'/> 
+<div>
 <h3 align="left">
   Welcome to Manuel's profile!
 </h3>
@@ -23,7 +24,8 @@ Here are some ideas to get you started:
 My name is Manuel Zarza, I'm 26 years old, I live in Mexico and I'm a developer jr ❤️.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=75d7ff&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
-
+<div/>
+	
 ```dart
 // tools_I_use organized
 class About extends Me { 
