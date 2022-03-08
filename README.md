@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/giffTwo.gif' width='18%'/> 
+<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/giffTwo.gif' width='15%'/> 
 <div>
 <h3 align="left">
   Welcome to Manuel's profile!
