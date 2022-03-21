@@ -112,19 +112,19 @@ class About extends Me {
 
 <!--Social-->
 <a href="https://www.instagram.com/mannuelzz/">
-  <img align='right="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align='right=Manuel´s Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.">
-  <img align='left' alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.com">
+  <img align='left' alt="Manuel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/juanmerio">
+<a href="https://twitter.com/juanmerito">
   <img align='left'  alt="Manuel zarza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<!-- <a href="https://www.linkedin.com/in/juan-manuel-zarza-jimenez-13773614a/">
   <img align='left'  alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align='left' alt="manuel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/z.zwats00">
+  <img align='left' alt="manuel's Spotify" width="22px" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" />
 </a>
 
 
